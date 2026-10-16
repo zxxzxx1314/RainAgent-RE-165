@@ -1,0 +1,11 @@
+# build outputs (large, ship via GitHub Release instead)
+*.apk
+*.idsig
+apktool_out/
+rebuild/
+work/
+*.log
+pycache/
+*.pyc
+# local secrets
+local.properties
